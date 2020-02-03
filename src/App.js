@@ -95,7 +95,7 @@ function App() {
 
    return (
             <Countdown
-                timeTillDate="02 7 2019, 9:00 pm"
+                timeTillDate="02 06 2020, 8:00 pm"
                 timeFormat="MM DD YYYY, h:mm a"
             />);
 
