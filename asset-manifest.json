@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/birthday/static/css/main.bab58ce7.chunk.css",
-    "main.js": "/birthday/static/js/main.529d7db0.chunk.js",
-    "main.js.map": "/birthday/static/js/main.529d7db0.chunk.js.map",
+    "main.js": "/birthday/static/js/main.ebbbcb89.chunk.js",
+    "main.js.map": "/birthday/static/js/main.ebbbcb89.chunk.js.map",
     "runtime-main.js": "/birthday/static/js/runtime-main.c3ad665b.js",
     "runtime-main.js.map": "/birthday/static/js/runtime-main.c3ad665b.js.map",
     "static/js/2.f7f7be22.chunk.js": "/birthday/static/js/2.f7f7be22.chunk.js",
     "static/js/2.f7f7be22.chunk.js.map": "/birthday/static/js/2.f7f7be22.chunk.js.map",
     "index.html": "/birthday/index.html",
-    "precache-manifest.56e6fb6d78c887964d8531ec9e8608f2.js": "/birthday/precache-manifest.56e6fb6d78c887964d8531ec9e8608f2.js",
+    "precache-manifest.0b889e6867637f8e10f57cb521548037.js": "/birthday/precache-manifest.0b889e6867637f8e10f57cb521548037.js",
     "service-worker.js": "/birthday/service-worker.js",
     "static/css/main.bab58ce7.chunk.css.map": "/birthday/static/css/main.bab58ce7.chunk.css.map",
     "static/js/2.f7f7be22.chunk.js.LICENSE.txt": "/birthday/static/js/2.f7f7be22.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c3ad665b.js",
     "static/js/2.f7f7be22.chunk.js",
     "static/css/main.bab58ce7.chunk.css",
-    "static/js/main.529d7db0.chunk.js"
+    "static/js/main.ebbbcb89.chunk.js"
   ]
 }
